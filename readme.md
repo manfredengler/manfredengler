@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Manfred Engler</h1>
 <h3 align="center">A backend developer from Chile</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manfredengler&label=Profile%20views&color=0e75b6&style=flat" alt="manfredengler" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=manfredengler&label=Profile%20views&color=0e75b6&style=flat" alt="manfredengler" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manfredengler" alt="manfredengler" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manfredengler" alt="manfredengler" /></a> </p>
+
+<p align="center"><a href="https://app.daily.dev/Manfroshi"><img src="https://api.daily.dev/devcards/d23fa221936d4b9f815e23c274ef98b6.png?r=98o" width="300" alt="Manfred Engler's Dev Card"/></a></p>
 
 - 🌱 I’m currently learning **more about Python, Webframeworks and ML.**
 
-- 👨‍💻 All of my projects are available at [https://manfredengler.github.io/](https://manfredengler.github.io/)
+- 👨‍💻 All my projects are available at [https://manfredengler.github.io/](https://manfredengler.github.io/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
